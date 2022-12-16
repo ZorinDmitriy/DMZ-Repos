@@ -1,0 +1,21 @@
+C:\Users\zorin\Desktop\РАБОЧАЯ СТОЛЕШНИЦА\КОЛЛЕДЖ  МОИ РАБОТЫ ЗА ВСЁ ВРЕМЯ\4 КУРС\Стащенные работы\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\zorin\Desktop\РАБОЧАЯ СТОЛЕШНИЦА\КОЛЛЕДЖ  МОИ РАБОТЫ ЗА ВСЁ ВРЕМЯ\4 КУРС\Стащенные работы\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\zorin\Desktop\РАБОЧАЯ СТОЛЕШНИЦА\КОЛЛЕДЖ  МОИ РАБОТЫ ЗА ВСЁ ВРЕМЯ\4 КУРС\Стащенные работы\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\zorin\Desktop\РАБОЧАЯ СТОЛЕШНИЦА\КОЛЛЕДЖ  МОИ РАБОТЫ ЗА ВСЁ ВРЕМЯ\4 КУРС\Стащенные работы\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\zorin\Desktop\РАБОЧАЯ СТОЛЕШНИЦА\КОЛЛЕДЖ  МОИ РАБОТЫ ЗА ВСЁ ВРЕМЯ\4 КУРС\Стащенные работы\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\zorin\Desktop\РАБОЧАЯ СТОЛЕШНИЦА\КОЛЛЕДЖ  МОИ РАБОТЫ ЗА ВСЁ ВРЕМЯ\4 КУРС\Стащенные работы\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Forms.Cards.AgentCard.resources
+C:\Users\zorin\Desktop\РАБОЧАЯ СТОЛЕШНИЦА\КОЛЛЕДЖ  МОИ РАБОТЫ ЗА ВСЁ ВРЕМЯ\4 КУРС\Стащенные работы\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\zorin\Desktop\РАБОЧАЯ СТОЛЕШНИЦА\КОЛЛЕДЖ  МОИ РАБОТЫ ЗА ВСЁ ВРЕМЯ\4 КУРС\Стащенные работы\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\zorin\Desktop\РАБОЧАЯ СТОЛЕШНИЦА\КОЛЛЕДЖ  МОИ РАБОТЫ ЗА ВСЁ ВРЕМЯ\4 КУРС\Стащенные работы\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\zorin\Desktop\РАБОЧАЯ СТОЛЕШНИЦА\КОЛЛЕДЖ  МОИ РАБОТЫ ЗА ВСЁ ВРЕМЯ\4 КУРС\Стащенные работы\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\zorin\Desktop\РАБОЧАЯ СТОЛЕШНИЦА\КОЛЛЕДЖ  МОИ РАБОТЫ ЗА ВСЁ ВРЕМЯ\4 КУРС\Стащенные работы\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\zorin\Desktop\РАБОЧАЯ СТОЛЕШНИЦА\КОЛЛЕДЖ  МОИ РАБОТЫ ЗА ВСЁ ВРЕМЯ\4 КУРС\Стащенные работы\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\zorin\Desktop\РАБОЧАЯ СТОЛЕШНИЦА\КОЛЛЕДЖ  МОИ РАБОТЫ ЗА ВСЁ ВРЕМЯ\4 КУРС\Стащенные работы\LabWork1_ASP.NET Core\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\zorin\Desktop\РАБОЧАЯ СТОЛЕШНИЦА\КОЛЛЕДЖ  МОИ РАБОТЫ ЗА ВСЁ ВРЕМЯ\4 КУРС\Стащенные работы\LabWork1_ASP.NET Core\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\zorin\Desktop\РАБОЧАЯ СТОЛЕШНИЦА\КОЛЛЕДЖ  МОИ РАБОТЫ ЗА ВСЁ ВРЕМЯ\4 КУРС\Стащенные работы\LabWork1_ASP.NET Core\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Forms.Cards.AgentCard.resources
+C:\Users\zorin\Desktop\РАБОЧАЯ СТОЛЕШНИЦА\КОЛЛЕДЖ  МОИ РАБОТЫ ЗА ВСЁ ВРЕМЯ\4 КУРС\Стащенные работы\LabWork1_ASP.NET Core\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\zorin\Desktop\РАБОЧАЯ СТОЛЕШНИЦА\КОЛЛЕДЖ  МОИ РАБОТЫ ЗА ВСЁ ВРЕМЯ\4 КУРС\Стащенные работы\LabWork1_ASP.NET Core\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\zorin\Desktop\РАБОЧАЯ СТОЛЕШНИЦА\КОЛЛЕДЖ  МОИ РАБОТЫ ЗА ВСЁ ВРЕМЯ\4 КУРС\Стащенные работы\LabWork1_ASP.NET Core\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\zorin\Desktop\РАБОЧАЯ СТОЛЕШНИЦА\КОЛЛЕДЖ  МОИ РАБОТЫ ЗА ВСЁ ВРЕМЯ\4 КУРС\Стащенные работы\LabWork1_ASP.NET Core\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\zorin\Desktop\РАБОЧАЯ СТОЛЕШНИЦА\КОЛЛЕДЖ  МОИ РАБОТЫ ЗА ВСЁ ВРЕМЯ\4 КУРС\Стащенные работы\LabWork1_ASP.NET Core\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\zorin\Desktop\РАБОЧАЯ СТОЛЕШНИЦА\КОЛЛЕДЖ  МОИ РАБОТЫ ЗА ВСЁ ВРЕМЯ\4 КУРС\Стащенные работы\LabWork1_ASP.NET Core\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
